@@ -22,7 +22,7 @@ export const HookUseState = () =>{
     }
 
     const cambiar = () =>{
-        setNombre("Pepe")
+        setNombre("Jorge")
     }
 
 return(
